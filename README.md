@@ -3,7 +3,8 @@
 ## 📌 Overview
 An interactive Retail Sales Dashboard built in Microsoft Excel to analyze sales performance, customer purchasing behavior, product trends, and regional performance. The dashboard transforms raw sales data into actionable insights using Pivot Tables, Pivot Charts, Slicers, Timelines, and Excel formulas.
 
-<img width="525" height="353" alt="retail-sales-performance-dashboard" src="https://github.com/user-attachments/assets/505edef2-1a65-4a2c-93b2-25e5d8823137" />
+<img width="525" height="353" alt="Dashboard" src="https://github.com/user-attachments/assets/8a69c238-0604-426f-9fd9-a94f1d0fc97e" />
+
 
 ---
 
