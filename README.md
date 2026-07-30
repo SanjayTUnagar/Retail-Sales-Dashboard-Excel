@@ -3,6 +3,8 @@
 ## 📌 Overview
 An interactive Retail Sales Dashboard built in Microsoft Excel to analyze sales performance, customer purchasing behavior, product trends, and regional performance. The dashboard transforms raw sales data into actionable insights using Pivot Tables, Pivot Charts, Slicers, Timelines, and Excel formulas.
 
+<img width="525" height="353" alt="retail-sales-performance-dashboard" src="https://github.com/user-attachments/assets/505edef2-1a65-4a2c-93b2-25e5d8823137" />
+
 ---
 
 ## 🎯 Objectives
@@ -120,25 +122,6 @@ Dataset includes:
 
 ---
 
-## 📁 Project Structure
-
-```
-Retail-Sales-Dashboard/
-│
-├── Dataset/
-│   └── Retail_Sales_Data.csv
-│
-├── Dashboard/
-│   └── Retail Sales Dashboard.xlsx
-│
-├── Images/
-│   └── Dashboard.png
-│
-└── README.md
-```
-
----
-
 ## 🚀 Skills Demonstrated
 
 - Data Cleaning
@@ -153,21 +136,20 @@ Retail-Sales-Dashboard/
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Sanjay Unagar**
 
-**Data Analyst**
+Data Analyst | Python | SQL | Excel | Power BI | Pandas | Numpy | Matplotlib | Seaborn | Data Visualization
 
-### Technologies
+🔗 GitHub:  
+https://github.com/SanjayTUnagar
 
-- Microsoft Excel
-- SQL
-- Power BI
-- Python
-- Pandas
-- NumPy
+🔗 LinkedIn:  
+https://www.linkedin.com/in/sanjayunagar/
 
 ---
 
-⭐ If you found this project helpful, consider giving it a star.
+# ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
