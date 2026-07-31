@@ -137,7 +137,7 @@ Dataset includes:
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 ### Sanjay Unagar
 **Data Analyst | Python | SQL | Excel | Power BI | Pandas | Numpy | Matplotlib | Seaborn | Data Visualization**
