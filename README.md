@@ -137,6 +137,34 @@ Dataset includes:
 
 ---
 
+## 👨‍💻 Author
+
+### Sanjay Unagar
+**Data Analyst | Python | SQL | Excel | Power BI | Pandas | Numpy | Matplotlib | Seaborn | Data Visualization**
+
+🌐 **Portfolio:** https://sanjayunagar.netlify.app
+
+💼 **LinkedIn:** https://www.linkedin.com/in/sanjayunagar/
+
+🐙 **GitHub:** https://github.com/SanjayTUnagar
+
+---
+
+<p align="left">
+  <a href="https://sanjayunagar.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/sanjayunagar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sanjay%20Unagar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/SanjayTUnagar">
+    <img src="https://img.shields.io/badge/GitHub-SanjayTUnagar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+---
+
+
 # 👨‍💻 Author
 
 **Sanjay Unagar**
